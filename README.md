@@ -1,6 +1,5 @@
 ![Network Traffic Classification](network_traffic_project_banner.png)
 
-# Classifying Network Traffic Flow — DDoS Intrusion Detection
 
 # Classifying Network Traffic Flow — DDoS Intrusion Detection
 
@@ -11,6 +10,14 @@ A machine learning project that classifies network traffic flows as **BENIGN** o
 Network intrusion detection is an important part of cybersecurity. This project develops and evaluates machine learning classifiers to distinguish normal network traffic from DDoS attack traffic.
 
 The objective is to detect attacks while minimizing missed attacks (false negatives) and unnecessary alerts (false positives).
+
+## 🔗 Project Links
+
+| Resource | Link |
+|---|---|
+| Kaggle Notebook | [View Notebook](https://www.kaggle.com/code/season87/classifying-network-flow) |
+| Kaggle Dataset | [View Dataset](https://www.kaggle.com/datasets/season87/dd0s-pcap-iscx) |
+| GitHub Repository | [View Repository](https://github.com/Satish-Tarak/Classifying-Network-Traffic-Flow) |
 
 ## Dataset
 
