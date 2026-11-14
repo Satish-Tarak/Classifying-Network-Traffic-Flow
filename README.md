@@ -1,3 +1,7 @@
+![Network Traffic Classification](network_traffic_project_banner.png)
+
+# Classifying Network Traffic Flow — DDoS Intrusion Detection
+
 # Classifying Network Traffic Flow — DDoS Intrusion Detection
 
 A machine learning project that classifies network traffic flows as **BENIGN** or **DDoS**, helping identify potential Distributed Denial-of-Service attacks through flow-level network characteristics.
